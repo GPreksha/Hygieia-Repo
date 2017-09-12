@@ -43,3 +43,4 @@ logs
 .pmd
 .classpath
 application.properties
+/collectors/scm/github/logs/github-collector-2017-09-12.0.log
