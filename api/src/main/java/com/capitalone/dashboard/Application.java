@@ -28,6 +28,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 @EnableEncryptableProperties
 public class Application extends SpringBootServletInitializer {
+	
+	
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
         return application.sources(Application.class, RestApiAppConfig.class, WebMVCConfig.class, MongoConfig.class);
