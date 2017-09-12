@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2017-09-12T14:14:38.768">
+<file name="C:\Hygieia master\collectors\scm\github\src\main\java\com\capitalone\dashboard\Application.java">
+<violation beginline="14" endline="14" begincolumn="9" endcolumn="26" rule="SystemPrintln" ruleset="Java Logging" package="com.capitalone.dashboard" class="Application" method="main" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/logging-java.html#SystemPrintln" priority="2">
+System.out.println is used
+</violation>
+</file>
+</pmd>

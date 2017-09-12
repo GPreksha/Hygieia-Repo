@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: com.capitalone.dashboard:github-scm-collector
+Implementation-Version: 2.0.5-SNAPSHOT
+Built-By: SSC
+Implementation-Vendor-Id: com.capitalone.dashboard
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

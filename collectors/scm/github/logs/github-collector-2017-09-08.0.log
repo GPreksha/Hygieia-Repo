@@ -1,0 +1,114 @@
+2017-09-08 16:01:22,658 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,662 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:01:22,662 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,665 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:01:22,666 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:01:22,673 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:01:22,722 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:01:22,723 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:01:22,723 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:01:22,723 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:01:22,723 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:01:22,735 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,735 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:01:22,735 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,736 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:01:22,736 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:01:22,736 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:01:22,736 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:01:22,736 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:01:22,743 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,743 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:01:22,744 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,748 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:01:22,748 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:01:22,748 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:01:22,749 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:01:22,749 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:01:22,749 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:01:22,749 INFO  c.c.d.collector.CollectorTask - New Issues              1        0s
+2017-09-08 16:01:22,749 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:01:22,752 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,752 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:01:22,752 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:01:22,753 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:01:22,753 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:01:22,753 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:01:22,753 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:01:22,753 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:03:48,506 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,509 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:03:48,510 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,513 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:03:48,513 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:03:48,520 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:03:48,578 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:03:48,578 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:03:48,578 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:03:48,578 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:03:48,578 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:03:48,590 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,590 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:03:48,590 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,591 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:03:48,591 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:03:48,591 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:03:48,591 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:03:48,591 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:03:48,594 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,594 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:03:48,594 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,595 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:03:48,595 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:03:48,595 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:03:48,598 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:03:48,602 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:03:48,603 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:03:48,603 INFO  c.c.d.collector.CollectorTask - New Issues              1        0s
+2017-09-08 16:03:48,605 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:03:48,611 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,612 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:03:48,612 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:03:48,613 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:03:48,613 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:03:48,613 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:03:48,613 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:03:48,613 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:07:11,144 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,148 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:07:11,148 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,152 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:07:11,152 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:07:11,158 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:07:11,210 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:07:11,211 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:07:11,211 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:07:11,211 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:07:11,211 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:07:11,223 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,224 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:07:11,224 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,224 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:07:11,225 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:07:11,225 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:07:11,225 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:07:11,225 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:07:11,228 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,228 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:07:11,228 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,229 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null:: get commits
+2017-09-08 16:07:11,229 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null get issues
+2017-09-08 16:07:11,229 INFO  c.c.d.collector.GitHubCollectorTask - {url=http://current}::null::get pulls
+2017-09-08 16:07:11,230 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:07:11,230 INFO  c.c.d.collector.CollectorTask - New Commits             1        0s
+2017-09-08 16:07:11,230 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:07:11,230 INFO  c.c.d.collector.CollectorTask - New Issues              1        0s
+2017-09-08 16:07:11,230 INFO  c.c.d.collector.CollectorTask - Finished                         0s
+2017-09-08 16:07:11,234 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,235 INFO  c.c.d.collector.CollectorTask - Starting...
+2017-09-08 16:07:11,235 INFO  c.c.d.collector.CollectorTask - -----------------------------------
+2017-09-08 16:07:11,235 INFO  c.c.d.collector.CollectorTask - Repo Count              1        0s
+2017-09-08 16:07:11,235 INFO  c.c.d.collector.CollectorTask - New Commits             0        0s
+2017-09-08 16:07:11,236 INFO  c.c.d.collector.CollectorTask - New Pulls               0        0s
+2017-09-08 16:07:11,236 INFO  c.c.d.collector.CollectorTask - New Issues              0        0s
+2017-09-08 16:07:11,236 INFO  c.c.d.collector.CollectorTask - Finished                         0s
