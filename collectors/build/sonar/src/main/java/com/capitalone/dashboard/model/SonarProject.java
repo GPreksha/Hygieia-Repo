@@ -17,7 +17,7 @@ public class SonarProject extends CollectorItem {
         return (String) getOptions().get(PROJECT_ID);
     }
 
-    public void setProjectId(String id) {
+    public void setProjectId(String id) {  
         getOptions().put(PROJECT_ID, id);
     }
 
